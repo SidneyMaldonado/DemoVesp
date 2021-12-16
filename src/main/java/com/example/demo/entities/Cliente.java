@@ -11,6 +11,12 @@ public class Cliente {
 
 
     // comentario do sidney
+    // comentario do Luiz
+    // comentario enzo
+    //Willian
+    //Pedro
+    //maristela
+    //Comentario do vinicius
 
     @Id
     @Column(name="id")
