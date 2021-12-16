@@ -49,5 +49,7 @@ public class Cliente {
         return true;
     }
 
-
+    public Boolean Somar() {
+        return false;
+    }
 }
