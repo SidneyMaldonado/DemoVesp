@@ -38,6 +38,10 @@ public class Cliente {
         this.nome = nome;
     }
 
+    public Boolean testar()
+    {
+        return true;
+    }
 
 
 }
