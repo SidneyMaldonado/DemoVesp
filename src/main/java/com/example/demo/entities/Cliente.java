@@ -11,6 +11,7 @@ public class Cliente {
 
 
     // comentario do sidney
+    // comentario do Luiz
 
     @Id
     @Column(name="id")
