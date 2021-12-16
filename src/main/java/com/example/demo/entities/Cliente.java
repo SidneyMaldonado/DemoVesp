@@ -10,6 +10,8 @@ import javax.persistence.Table;
 public class Cliente {
 
 
+    // comentario do sidney
+
     @Id
     @Column(name="id")
     private String id;
